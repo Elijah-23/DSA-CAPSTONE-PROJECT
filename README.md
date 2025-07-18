@@ -1,17 +1,17 @@
 # Project Topic: Kultra Mega Store Inventory Analysis
 
 
-## 🏢 Company Overview
+## Company Overview
 Kultra Mega Stores (KMS) is headquartered in Lagos and specialises in office supplies and furniture. Its customer base includes individual consumers, small businesses (retail), and large corporate clients (wholesale) across Lagos, Nigeria.
 
 ---
 
-## 🎯 Objective
+## Objective
 To analyze historical order data for Kultra Mega Stores (KMS) from 2009 to 2012 using SQL and generate actionable insights for the Abuja division. The analysis focuses on product performance, regional sales, customer segmentation, and shipping efficiency to support strategic business decisions.
 
 ---
 
-## 📚 Case Scenarios
+## Case Scenarios
 
 ### **Case Scenario I**
 1. Which product category had the highest sales?  
@@ -30,7 +30,7 @@ To analyze historical order data for Kultra Mega Stores (KMS) from 2009 to 2012 
 
 ---
 
-## 🧮 Approach and Methodology
+## Approach and Methodology
 - Imported and structured the dataset into a SQL database for query analysis  
 - Cleaned and standardized data formats  
 - Wrote SQL queries to solve business questions across two case scenarios  
@@ -42,14 +42,14 @@ To analyze historical order data for Kultra Mega Stores (KMS) from 2009 to 2012 
 
 ---
 
-## 🛠️ Tools Used
+## 🛠Tools Used
 - **Microsoft SQL Server Management Studio (SSMS)**: For data querying and analysis  
 - **Microsoft Excel**: For initial data cleaning and exploratory review  
 - **GitHub**: For project version control and documentation
 
 ---
 
-## 📌 Recommendations and Insights
+## Recommendations and Insights
 
 ### **CASE SCENARIO I**
 
