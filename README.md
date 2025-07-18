@@ -65,8 +65,7 @@ To analyze historical order data for Kultra Mega Stores (KMS) from 2009 to 2012 
 4. **Insight**: Total sales of Appliances in Ontario amounted to **202,000**.  
    **Recommendation**: Run bundled offers or cross-selling promotions combining appliances with complementary office supplies to increase the average order value in this category.
 
-5. **Insight**: Bottom 10 customers had consistently low purchase volume.  
-   **Recommendation**: Introduce personalized discount offers or account-based support to re-engage these customers and boost their purchase frequency.
+5. **Recommendation**: Introduce personalized discount offers or account-based support to re-engage the bottom 10 customers with consistently low purchase volume, to boost their purchase frequency
 
 ---
 
