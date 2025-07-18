@@ -42,7 +42,7 @@ To analyze historical order data for Kultra Mega Stores (KMS) from 2009 to 2012 
 
 ---
 
-## 🛠Tools Used
+## Tools Used
 - **Microsoft SQL Server Management Studio (SSMS)**: For data querying and analysis  
 - **Microsoft Excel**: For initial data cleaning and exploratory review  
 - **GitHub**: For project version control and documentation
